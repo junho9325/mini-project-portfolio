@@ -2,6 +2,8 @@
 # 초음파 센서 기반 장애물 회피 RC카 (Mini Project)
 3일간 진행하는 미니 프로젝트로 Arduino + Raspberry Pi 기반 장애물 감지 RC카 입니다.
 
+## 최종 구현 사진/영상
+[링크](https://drive.google.com/drive/folders/1t4AsPlC0XhethQiueich9ddT3AVpEsqB)
 
 ## 프로젝트 개요
 - 기간: 3일
